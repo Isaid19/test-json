@@ -42,7 +42,7 @@
        		"fotoActual":"http://www.elcontenedor.com.ve/imagenes_productos/caja1.jpg",
         	"long":"-100.5408622",
         	"lat":"28.6916182",
-        	"comentarios":"No sufrió daños.",
+        	"comentarios":"No sufrió daños."
 	},
 	{	
 		"id":"c0c0c0",
@@ -59,7 +59,7 @@
         	"fotoActual":" https://previews.123rf.com/images/montego/montego1310/montego131000001/23238318-barril-de-acero-ilustraci%C3%B3n-3d-sobre-fondo-blanco.jpg",
         	"long":"-100.985541",
         	"lat":"22.156470",
-        	"comentarios":"Solo tiene un rasguño.",
+        	"comentarios":"Solo tiene un rasguño."
 	}
   ]
 }
